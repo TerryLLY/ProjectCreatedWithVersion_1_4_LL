@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>ProjectCreatedWithVersion_1_4_LLUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="5bd1738d3f60d47ba30b9df411fa0050" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="bb3ffd2e45ccdf85b7f023208754721d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="4c468082fbaefdd3984909eff45946cc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="37442aa2bd8928c465725a9d655a4f8f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="76c6b9dc24666b9297ce397d3fb2b9fe" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="71cef6cb9448ed8eec272a74a2aac225" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="d8c1f937b06701ef258bf0ca9bebb5a9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="a595e6d9267daf5b97d9114159b29575" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="469b7710941a259b265c5f8e91994f67" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="1b61db0c3d363c14fced133a95fcac86" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="bcb75da440fe4d6a88402c472e471d51" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="d0fba00ff93f064d6e1cb546eea27209" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="fd52139656c4cab63738095f771343a3" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="638838acd9f5ae93ca75b058c300b43b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="d312f5365c7d886a7a689a7c61bf2412" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="937bdaeca748212659105fb563595c0b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="59f233a86b88133bc07cecf82da51463" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="b6239b77b31bba48a937ee481e521c37" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="aafae88a96cb862a3d9a244021075150" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="fdec4df0661b496689dfbf9cfcb33ae1" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="e98f071e78271b043e525124cfadd8f9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="ce814fddddd607c776a3b9a6e0b90c27" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="53b1bd1b17b4de66926108a7dfdf143e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="2eebfd3def044e747aa57952fc13c70d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="ProjectCreatedWithVersion_1_4_LL" guid="fc0d46c3cf6fc6f7faace8fa13bde2b5" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>

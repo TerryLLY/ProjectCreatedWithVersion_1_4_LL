@@ -1,0 +1,13 @@
+Name: Groups
+Id: g=8651079875a4c7c51e602937aa48aadd
+Type: GroupsCategoryFolder
+Children:
+- Name: AdminGroup_中é
+  Id: g=213c32eab1ddf240d9aabdfd38e09baa
+  Type: GroupType
+- Name: AckGroup_中é
+  Id: g=946fc051ba816487745f31ddd4c16d80
+  Type: GroupType
+- Name: ConfirmGroup_中é
+  Id: g=86912d096d1737cd27099551e5ffc6ac
+  Type: GroupType

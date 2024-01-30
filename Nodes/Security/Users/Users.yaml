@@ -1,0 +1,178 @@
+Name: Users
+Id: g=d07b47f58c521cd9ebd453bc92494cba
+Type: UsersCategoryFolder
+Children:
+- Name: Admin_中é
+  Id: g=8f8a422049190586bae5479573616576
+  Type: UserType
+  Children:
+  - Name: Password
+    Id: g=5aa80e41f264e893eb76f48afb56e07a
+    Type: Password
+    DataType: Password
+    ReferenceType: HasProperty
+    AccessLevel: Read
+    Children:
+    - Name: Hash
+      Id: g=c6332d2726d181c8116f85b0719e13b0
+      Type: PropertyType
+      DataType: PasswordHash
+      AccessLevel: Read
+      Value: 
+       {
+        "TypeId": {
+         "Id": 252,
+         "Namespace": 1
+        },
+        "Body": {
+         "Hash": [184,122,43,152,41,61,150,55,92,17,210,114,235,77,17,179,134,32,222,89,55,97,95,18,224,198,41,11,69,167,48,126],
+         "Salt": [16,76,245,191,47,225,131,60,231,99,22,66,182,42,85,91,149,115,90,49,230,108,144,112,29,94,193,59,162,203,51,26]
+        }
+       }
+    - Name: ChangeTimestamp
+      Id: g=290c5d6dd303f9e0c6b1c18047f181d8
+      Type: PropertyType
+      DataType: UtcTime
+      AccessLevel: Read
+      Value: "2023-07-11T07:26:33.5894352"
+    - Name: History
+      Id: g=4993ef43518b5f2894d0ec9101deee93
+      Type: PropertyType
+      DataType: PasswordHash
+      AccessLevel: Read
+      ValueRank: OneDimension
+      ArrayDimensions: [0]
+      Value: [{"TypeId":{"Id":252,"Namespace":1},"Body":{"Hash":[184,122,43,152,41,61,150,55,92,17,210,114,235,77,17,179,134,32,222,89,55,97,95,18,224,198,41,11,69,167,48,126],"Salt":[16,76,245,191,47,225,131,60,231,99,22,66,182,42,85,91,149,115,90,49,230,108,144,112,29,94,193,59,162,203,51,26]}}]
+  - Name: LocaleId
+    Id: g=ee70457ad5a7be933f6ecfa0ec105473
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-DE"
+  - Class: Reference
+    Type: HasGroup
+    Target: g=946fc051ba816487745f31ddd4c16d80
+  - Class: Reference
+    Type: HasGroup
+    Target: g=213c32eab1ddf240d9aabdfd38e09baa
+  - Class: Reference
+    Type: HasGroup
+    Target: g=86912d096d1737cd27099551e5ffc6ac
+  - Name: Language
+    Id: g=1ca226bba0e94a4a943ffef16ba08239
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-DE"
+- Name: AckUser_中é
+  Id: g=195448f02e66e22bc3b4fedf7f718a4e
+  Type: UserType
+  Children:
+  - Name: Password
+    Id: g=9cde7a9df89049c29e43cd341fd78b6b
+    Type: Password
+    DataType: Password
+    ReferenceType: HasProperty
+    AccessLevel: Read
+    Children:
+    - Name: Hash
+      Id: g=b027a93a5e5012ee72bf17551814213c
+      Type: PropertyType
+      DataType: PasswordHash
+      AccessLevel: Read
+      Value: 
+       {
+        "TypeId": {
+         "Id": 252,
+         "Namespace": 1
+        },
+        "Body": {
+         "Hash": [47,174,5,156,52,36,216,221,66,12,120,36,67,229,207,126,98,168,131,208,139,7,251,49,112,222,61,78,7,10,218,116],
+         "Salt": [201,241,140,161,61,106,248,31,242,68,183,174,173,207,236,82,143,231,108,30,127,136,174,114,203,59,128,116,156,88,205,30]
+        }
+       }
+    - Name: ChangeTimestamp
+      Id: g=a3bb7c8ac39f52509ab78a12edc58125
+      Type: PropertyType
+      DataType: UtcTime
+      AccessLevel: Read
+      Value: "2023-07-11T07:26:51.5303564"
+    - Name: History
+      Id: g=a33b198cbb8ae9ebf523a30439a01389
+      Type: PropertyType
+      DataType: PasswordHash
+      AccessLevel: Read
+      ValueRank: OneDimension
+      ArrayDimensions: [0]
+      Value: [{"TypeId":{"Id":252,"Namespace":1},"Body":{"Hash":[47,174,5,156,52,36,216,221,66,12,120,36,67,229,207,126,98,168,131,208,139,7,251,49,112,222,61,78,7,10,218,116],"Salt":[201,241,140,161,61,106,248,31,242,68,183,174,173,207,236,82,143,231,108,30,127,136,174,114,203,59,128,116,156,88,205,30]}}]
+  - Name: LocaleId
+    Id: g=6cffe06b37c5ca0c3490bb9f3769c7f6
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-DE"
+  - Class: Reference
+    Type: HasGroup
+    Target: g=946fc051ba816487745f31ddd4c16d80
+  - Name: Language
+    Id: g=d40cc379150d5bd2564e92de4578158b
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-DE"
+- Name: ConfirmUser_中é
+  Id: g=77d35595a7f00cb5904fd28967058cac
+  Type: UserType
+  Children:
+  - Name: Password
+    Id: g=132bfe5a08963835a4a1549a5aa96a55
+    Type: Password
+    DataType: Password
+    ReferenceType: HasProperty
+    AccessLevel: Read
+    Children:
+    - Name: Hash
+      Id: g=613658e2dbd63d246118525dc5a5c697
+      Type: PropertyType
+      DataType: PasswordHash
+      AccessLevel: Read
+      Value: 
+       {
+        "TypeId": {
+         "Id": 252,
+         "Namespace": 1
+        },
+        "Body": {
+         "Hash": [212,173,45,180,113,143,236,72,18,30,13,180,150,191,239,149,244,44,250,143,157,67,85,4,94,174,142,192,164,180,219,154],
+         "Salt": [42,174,53,19,155,246,206,27,154,27,131,199,91,105,184,242,235,190,249,185,149,149,110,228,188,22,118,39,34,148,131,123]
+        }
+       }
+    - Name: ChangeTimestamp
+      Id: g=36dad4f11a2df2510df5bd475489a1aa
+      Type: PropertyType
+      DataType: UtcTime
+      AccessLevel: Read
+      Value: "2023-07-11T07:27:03.7862528"
+    - Name: History
+      Id: g=e7e40481803a1039bef957fce59f95ad
+      Type: PropertyType
+      DataType: PasswordHash
+      AccessLevel: Read
+      ValueRank: OneDimension
+      ArrayDimensions: [0]
+      Value: [{"TypeId":{"Id":252,"Namespace":1},"Body":{"Hash":[212,173,45,180,113,143,236,72,18,30,13,180,150,191,239,149,244,44,250,143,157,67,85,4,94,174,142,192,164,180,219,154],"Salt":[42,174,53,19,155,246,206,27,154,27,131,199,91,105,184,242,235,190,249,185,149,149,110,228,188,22,118,39,34,148,131,123]}}]
+  - Name: LocaleId
+    Id: g=b065881d453c272b712e6144349946c1
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-DE"
+  - Name: Language
+    Id: g=55f737be091b44835fc4447d98b70d40
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "de-DE"
+  - Class: Reference
+    Type: HasGroup
+    Target: g=86912d096d1737cd27099551e5ffc6ac
